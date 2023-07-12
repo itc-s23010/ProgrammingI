@@ -72,5 +72,5 @@
 - 8.8 sqlite3
 - 8.9 decimal
 - 8.10 logging
-[(最終問題)](./CHAPTER02/Q2_final.py)
+- [(最終問題)](./CHAPTER02/Q2_final.py)
 
