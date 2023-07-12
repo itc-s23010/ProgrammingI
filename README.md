@@ -18,7 +18,7 @@
 - 2.10 関数の引数[(問題１)](./CHAPTER02/Q2_10_1.py)[(問題２)](./CHAPTER02/Q2_10_2.py)
 - 2.11 複数同時代入[(問題１)](./CHAPTER02/Q2_11_1.py)[(問題２)](./CHAPTER02/Q2_11_2.py)
 - 2.12 モジュールの利用[(問題１)](./CHAPTER02/Q2_12_1.py)[(問題２)](./CHAPTER02/Q2_12_2.py)
-- 2.13 importのいろいろな書き方[(問題１)](./CHAPTER02/Q2_13_1.py)[(最終問題)](./CHAPTER02/Q2_final.py)
+- 2.13 importのいろいろな書き方[(問題１)](./CHAPTER02/Q2_13_1.py)[(問題２)](./CHAPTER02/Q2_13_2.py)
 ### 第3章　制御構文
 - 3.1 if文の基礎
 - 3.2 if文の応用
@@ -72,4 +72,5 @@
 - 8.8 sqlite3
 - 8.9 decimal
 - 8.10 logging
+[(最終問題)](./CHAPTER02/Q2_final.py)
 
