@@ -1,4 +1,10 @@
 # ProgrammingI
+##追加課題
+- [箸休め1](./CHAPTER04/hasi1.py)[箸休め2](./CHAPTER04/hasi1.py)
+- [箸休め3](./CHAPTER04/hasi1.py)[箸休め4](./CHAPTER04/hasi1.py)
+- [箸休め5](./CHAPTER04/hasi1.py)[箸休め6](./CHAPTER04/hasi1.py)
+- [箸休め7](./CHAPTER04/hasi1.py)[箸休め8](./CHAPTER04/hasi1.py)
+- [カレンダー](./CHAPTER04/karenda-.py)
 ## 教科書課題
 ### 第1章　Pythonの基本
 - 1.1 Pythonとその特徴
@@ -35,8 +41,8 @@
 - 4.4 関数とスコープ[(問題１)](./CHAPTER04/Q4_4_1.py)[(問題２)](./CHAPTER04/Q4_4_2.py)
 - 4.5 関数はオブジェクト[(問題１)](./CHAPTER04/Q4_5_1.py)[(問題２)](./CHAPTER04/Q4_5_2.py)
 - 4.6 ラムダ式[(問題１)](./CHAPTER04/Q4_6_1.py)[(問題２)](./CHAPTER04/Q4_6_2.py)
-- 4.7 関数の中の関数
-- 4.8 デコレータ
+- 4.7 関数の中の関数[(問題１)](./CHAPTER04/Q4_7_1.py)
+- 4.8 デコレータ[(問題１)](./CHAPTER04/Q4_8_1.py)
 - 4.9 コーディングスタイル
 ### 第5章　データ構造
 - 5.1 リストのメソッド
