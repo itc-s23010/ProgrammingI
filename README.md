@@ -6,7 +6,7 @@
 - [箸休め7](./CHAPTER04/hasi1.py)[箸休め8](./CHAPTER04/hasi1.py)
 - [カレンダー](./CHAPTER04/karenda-.py)
 - [カレンダー８月](./CHAPTER04/karenda-kai.py)[カレンダー９月](./CHAPTER04/karenda-kai_kugatu.py)
-- [箸休め1](./CHAPTER06/my_math.py)[箸休め2](./CHAPTER06/my_math.py)
+- [箸休め9](./CHAPTER06/my_math.py)[箸休め10](./CHAPTER06/my_math.py)
 ## 教科書課題
 ### 第1章　Pythonの基本
 - 1.1 Pythonとその特徴
